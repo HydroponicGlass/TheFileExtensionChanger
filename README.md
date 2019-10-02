@@ -1,6 +1,6 @@
 The File Extension Changer  
 ==========================
-Ver 0.1 - Null to mp4 Changer for Windows
+Ver 0.1 - Null to mp4 changer for Windows
 -
 All Null extension files in current directory will be changed to mp4
 
